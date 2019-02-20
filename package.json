@@ -12,5 +12,17 @@
     "@babel/core": "^7.3.3",
     "@babel/preset-env": "^7.3.1",
     "jest": "^24.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naturalclar/babel-plugin-expo-vector-icon-storybook.git"
+  },
+  "keywords": [
+    "babel",
+    "plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/Naturalclar/babel-plugin-expo-vector-icon-storybook/issues"
+  },
+  "homepage": "https://github.com/Naturalclar/babel-plugin-expo-vector-icon-storybook#readme"
 }
