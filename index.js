@@ -15,7 +15,7 @@ module.exports = function(babel) {
           const specifier = t.ImportDefaultSpecifier(imported);
           return t.ImportDeclaration([specifier], {
             ...node.source,
-            value: "react-native-vector-icons" + "/" + imported.name
+            value: "react-native-vector-icons" + "/build/" + imported.name
           });
         });
         parent.body.splice(index, 1, ...importDeclarations);
