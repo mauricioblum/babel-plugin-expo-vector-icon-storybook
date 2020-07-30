@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-expo-vector-icon-storybook",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a babel plugin to convert @expo/vector-icon to react-native-vector-icon so it can be displayed on react-native-web",
   "main": "index.js",
   "author": "Jesse Katsumata <jesse.katsumata@gmail.com>",
